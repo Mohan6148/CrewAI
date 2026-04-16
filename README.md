@@ -1,6 +1,7 @@
-# Gemini AI Chat Application
+## 🧠 Multi-Agent System Concept
 
-A beautiful, modern web application that integrates with Google's Gemini API to provide intelligent chat responses. Built with Flask, HTML5, CSS3, and JavaScript.
+In this project, multiple AI agents are created with specific roles.  
+Each agent performs a task, and together they collaborate to complete a workflow efficiently.
 
 ## Features
 
