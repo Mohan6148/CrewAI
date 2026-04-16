@@ -1,4 +1,4 @@
-## 🧠 Multi-Agent System Concept
+## 🧠 Multi-Agent System CrewAI
 
 In this project, multiple AI agents are created with specific roles.  
 Each agent performs a task, and together they collaborate to complete a workflow efficiently.
